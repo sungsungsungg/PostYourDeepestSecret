@@ -1,8 +1,8 @@
-# nodeJS
+# Post Your Deepest Secret
+
+## Made with JS, Node.js, Express.js, EJS, CSS.
 
 Post Your Deepest secret with passcode so only you can see it (unless you share password someone else)
-
-This Project was done with Javascript, Node.js, Express.js, EJS, CSS.
 
 
 
