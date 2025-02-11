@@ -1,0 +1,12 @@
+.content{
+    width: 40rem;
+    margin-top: 5rem;
+}
+
+*{
+    margin: 30px 1rem;
+}
+
+li{
+    font-size: 1.5rem;
+}

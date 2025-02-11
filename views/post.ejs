@@ -1,0 +1,28 @@
+<%- include("partials/header.ejs") %>
+
+
+<section>
+    <h2><%= title %> </h2>
+    <form action="/submitPassword" method="POST">
+        <label form="password">Password: </label>
+        <input type="text" name="password" autocomplete="off" required>
+        <input type="submit" value="View">
+    </form>
+  
+    
+    <p>
+        <% if(locals.visible){ %>
+            <% if(visible) {%>
+                <%= content %>
+            <% } %>
+        <% } else{ %>
+            Enter Password to view the content.
+        <% } %>
+       
+    </p>
+</section>
+
+
+
+    </body>
+</html>
