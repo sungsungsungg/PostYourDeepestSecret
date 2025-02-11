@@ -1,10 +1,20 @@
 .content{
     width: 40rem;
-    margin-top: 5rem;
+    margin-top: 4px;
+    height: 10rem;
 }
 
 *{
     margin: 30px 1rem;
+}
+
+input{
+    margin-left: 2px;
+}
+
+label{
+    margin-left: 0;
+    margin-right: 0;
 }
 
 li{
