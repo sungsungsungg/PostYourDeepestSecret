@@ -6,7 +6,7 @@ Share your deepest secrets with a passcode so only you can access them—unless 
 
 Feel free to give it a try!
 
-There hasn't been put much effort on front-end (it's mainly for my practice with Node.js), I'm happy to bring life into this AWESOME blog site on any requests :)
+There hasn't been much effort put on front-end (it's mainly for my practice with Node.js), but I'm happy to bring this AWESOME site to life upon any request :)
 
 
 ## Instructions
