@@ -45,8 +45,6 @@ for(let i=0; i<100; i++){
 
 //Posts
 app.post("/submitPassword",(req,res)=>{
-    // req.body["password"];
-    console.log("POST");
     if(password===req.body["password"]){
         prevPost.visible = true;
     }
