@@ -6,7 +6,8 @@ Share your deepest secrets with a passcode so only you can access them—unless 
 
 Feel free to give it a try!
 
-While the styling is still a work in progress (it's mainly for my practice with Node.js), I'm happy to add enhancements if there's interest in making this blog site even more awesome.
+There hasn't been put much effort on front-end (it's mainly for my practice with Node.js), I'm happy to bring life into this AWESOME blog site on any requests :)
+
 
 ## Instructions
 
